@@ -1,7 +1,7 @@
 
 /**
- * Project: Lab2DonutShopChowdhury - OrderHistoryDialog
- * Purpose Details: Runs everything
+ * Project: Lab2DonutShopChowdhury  Oak Donuts (OD) - Donut Shop Menu & Ordering System - Main
+ * Purpose Details: Runs all the code. The user is able to browse, filter, add to order, and checkout
  * Course: CMPSC 221
  * Author: Daboraj Chowdhury
  * Date Developed: 11/10/2026

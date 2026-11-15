@@ -1,7 +1,7 @@
 
 
 /**
- * Project: Lab2DonutShopChowdhury - OrderHistoryDialog
+ * Project: Lab2DonutShopChowdhury  Oak Donuts (OD) - Donut Shop Menu & Ordering System - OrderHistoryDialog
  * Purpose Details: File > Order History window for viewing past orders and their items, editing the customer name, and deleting orders
  * Course: CMPSC 221
  * Author: Daboraj Chowdhury
