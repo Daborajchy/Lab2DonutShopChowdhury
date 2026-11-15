@@ -1,3 +1,19 @@
+
+/**
+ * Project: Lab2DonutShopChowdhury  Oak Donuts (OD) - Donut Shop Menu & Ordering System - Database Core
+ * Purpose Details:  Connects to the embedded Derby database and runs SQL statements for the DAO classes
+ * Course: CMPSC 221
+ * Author: Daboraj Chowdhury
+ * Date Developed: 11/10/2026
+ * Last Date Changed: 11/14/2026
+ * Revision: 1.0
+ */
+
+
+
+
+
+
 package core;
 
 import java.sql.Connection;

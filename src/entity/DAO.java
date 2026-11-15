@@ -1,20 +1,29 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+
+
+/**
+ * Project: Lab2DonutShopChowdhury  Oak Donuts (OD) - Donut Shop Menu & Ordering System - DAO
+ * Purpose Details:  Common CRUD methods (create, read, update, delete) that every DAO class must have
+ * Course: CMPSC 221
+ * Author: Daboraj Chowdhury
+ * Date Developed: 11/10/2026
+ * Last Date Changed: 11/14/2026
+ * Revision: 1.0
  */
+
+
+
+
+
+
+
+
+
 package entity;
+
 import java.util.List;
 import java.util.Optional;
-/**
- *
- * @author Gokhan
- * @param <T>
- */
-public interface DAO<T>
-{
-    //Optional is a container used to contain not-null objects.
-    //https://www.tutorialspoint.com/java8/java8_optional_class.htm
+
+public interface DAO<T> {
     Optional<T> get(int id);
     List<T> getAll();
     void insert(T t);
